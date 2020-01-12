@@ -8,9 +8,10 @@
 
 于是乎, Bob 做了一个简单的 Alfred workflow...
 
-可以一键达成目的, 不用跳出当前应用, 也不用再在应用间切来切去...效果如下:
+可以一键达成目的, 不用跳出当前应用, 也不用再在应用间切来切去...效果如下:  
 ![](https://github.com/bobleer/Alfred-Workflow_List-Processing/blob/master/Alfred-Workflow_List-Processing.gif?raw=true)
-
-注意! 要使用本workflow请先在您的Mac上安装好Alfred:
-[1. 点击直达 Alfred 下载页面.](https://www.alfredapp.com/)
-[2. 点击直达 Workflow 下载页面.](https://github.com/bobleer/Alfred-Workflow_List-Processing/raw/master/list_processing.alfredworkflow)
+  
+注意! 要使用本workflow请先在您的Mac上安装好Alfred:  
+[1. 点击直达 Alfred 下载页面.](https://www.alfredapp.com/)  
+[2. 点击直达 Workflow 下载页面.](https://github.com/bobleer/Alfred-Workflow_List-Processing/raw/master/list_processing.alfredworkflow)  
+  
