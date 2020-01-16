@@ -22,6 +22,8 @@
 于是本着磨刀不误砍柴工的精神, 写了一个脚本来自动生成.
 生成的周期是格式如下, 如有其它需求自行修改代码吧~
 
+![](https://github.com/bobleer/Alfred-Workflow_List-Processing/blob/master/DSgenerator.gif?raw=true)
+
 支持:
 月周期(6位)
 e.g. 201912,202001
