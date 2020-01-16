@@ -16,3 +16,22 @@
 [1. 点击直达 Alfred 下载页面.](https://www.alfredapp.com/)  
 [2. 点击直达 Workflow 下载页面.](https://github.com/bobleer/Alfred-Workflow_List-Processing/raw/master/list_processing.alfredworkflow)  
   
+## 连续时间周期生成
+
+工作中经常需要用到连续的时间周期, Excel并不能特别好的生成(每次新建一个表也挺慢的)
+于是本着磨刀不误砍柴工的精神, 写了一个脚本来自动生成.
+生成的周期是格式如下, 如有其它需求自行修改代码吧~
+
+支持:
+月周期(6位)
+e.g. 201912,202001
+天周期(8位)
+e.g. 20191231,20200101
+小时周期(10位)
+e.g. 2019123122,2019123123,2020010100,2020010101
+分钟周期(12位)
+e.g. 201912312340,201912312350,202001010000,202001010010
+
+注意! 要使用本workflow请先在您的Mac上安装好Alfred:  
+[1. 点击直达 Alfred 下载页面.](https://www.alfredapp.com/)  
+[2. 点击直达 Workflow 下载页面.](https://github.com/bobleer/Alfred-Workflow_List-Processing/raw/master/list_processing.alfredworkflow)  
