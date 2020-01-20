@@ -14,7 +14,7 @@
   
 注意! 要使用本workflow请先在您的Mac上安装好Alfred:  
 [1. 点击直达 Alfred 下载页面.](https://www.alfredapp.com/)  
-[2. 点击直达 Workflow 下载页面.](https://github.com/bobleer/Alfred-Workflow_List-Processing/raw/master/list_processing.alfredworkflow)  
+[2. 点击直达 Workflow 下载页面.](https://github.com/bobleer/Alfred-Workflow_List-Processing/raw/master/processing.alfredworkflow)  
   
 ## 连续时间周期生成
 
@@ -36,4 +36,6 @@ e.g. 201912312340,201912312350,202001010000,202001010010
   
 注意! 要使用本workflow请先在您的Mac上安装好Alfred:  
 [1. 点击直达 Alfred 下载页面.](https://www.alfredapp.com/)  
-[2. 点击直达 Workflow 下载页面.](https://github.com/bobleer/Alfred-Workflow_List-Processing/raw/master/list_processing.alfredworkflow)  
+[2. 点击直达 Workflow 下载页面.](https://github.com/bobleer/Alfred-Workflow_List-Processing/raw/master/processing.alfredworkflow)  
+## 多表格多主键多外键自动合并
+
