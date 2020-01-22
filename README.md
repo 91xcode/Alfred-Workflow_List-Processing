@@ -38,5 +38,5 @@ e.g. 201912312340,201912312350,202001010000,202001010010
 [1. 点击直达 Alfred 下载页面.](https://www.alfredapp.com/)  
 [2. 点击直达 Workflow 下载页面.](https://github.com/bobleer/Alfred-Workflow_List-Processing/raw/master/processing.alfredworkflow)  
 ## 多表格多主键多外键自动合并
-[参见bobleer/Multi_Tables_Join项目](https://github.com/bobleer/Multi_Tables_Join)
+→[参见bobleer/Multi_Tables_Join项目](https://github.com/bobleer/Multi_Tables_Join)
 ![](https://github.com/bobleer/Multi_Tables_Join/raw/master/Multi_Tables_Join_demo.jpg?raw=true)
